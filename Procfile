@@ -1,0 +1,1 @@
+worker: python outputbot.py & python selfbot.py & wait -n
