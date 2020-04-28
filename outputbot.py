@@ -40,7 +40,7 @@ def update_embed():
         data.embed.add_field(name="Best answer:", value= best_answer , inline=True)
         data.embed.set_image(url="https://cdn.discordapp.com/attachments/459865236393164810/493986426745126932/multicolours_1.gif")
         data.embed.set_thumbnail(url="https://cdn.discordapp.com/attachments/555059875885875201/602210574323023912/download.png")
-        data.embed.set_footer(text= 'Created by Amit',icon_url="https://media.discordapp.net/attachments/599923364999593985/600700142248525835/images.jpg")
+        data.embed.set_footer(text= 'Created by Myran',icon_url="https://media.discordapp.net/attachments/599923364999593985/600700142248525835/images.jpg")
 
     else:
         
@@ -51,7 +51,7 @@ def update_embed():
         data.embed.add_field(name="Best answer:", value= best_answer , inline=True)
         data.embed.set_image(url="https://cdn.discordapp.com/attachments/459865236393164810/493986426745126932/multicolours_1.gif")
         data.embed.set_thumbnail(url="https://cdn.discordapp.com/attachments/555059875885875201/602210574323023912/download.png")
-        data.embed.set_footer(text= 'Created by Amit',icon_url="https://media.discordapp.net/attachments/599923364999593985/600700142248525835/images.jpg")
+        data.embed.set_footer(text= 'Created by Myran',icon_url="https://media.discordapp.net/attachments/599923364999593985/600700142248525835/images.jpg")
 
 
 
